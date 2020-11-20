@@ -1,5 +1,5 @@
 # Black Friday & Cyber Monday 2020
-A list of Black Friday and Cyber Monday promotions and discounts for developers
+A list of Black Friday and Cyber Monday promotions and discounts for web developers, programmers and software engineers.
 
 -----
 
