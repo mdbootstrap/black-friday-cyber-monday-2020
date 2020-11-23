@@ -46,6 +46,19 @@ A list of Black Friday and Cyber Monday promotions and discounts for web develop
 
 🔗 https://www.advancedcustomfields.com/
 
+------
+
+## Dev Tools
+
+### Tower
+
+📓 Git desktop GUI for macOS and Windows
+
+💰 50%
+
+🔗 https://www.git-tower.com
+
+
 -----
 
 ## CRMs, automation & marketing
@@ -146,3 +159,15 @@ A list of Black Friday and Cyber Monday promotions and discounts for web develop
 💰 50%
 
 🔗 https://seoscout.com/black-friday
+
+------
+
+## SEO
+
+### Glorify App
+
+📓 Create beautiful, high converting e-commerce images, with just a few clicks. Design tool built for E-Commerce businesses drag-and-drop features and layouts to design.
+
+💰 Up to 93%
+
+🔗 https://start.glorifyapp.com/black-friday-lifetime-deal/
