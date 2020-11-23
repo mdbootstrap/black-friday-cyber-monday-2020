@@ -14,6 +14,18 @@ A list of Black Friday and Cyber Monday promotions and discounts for web develop
 
 -----
 
+## Developer Tools
+
+### Tower
+
+📓 Git desktop GUI for macOS and Windows
+
+💰 50%
+
+🔗 https://www.git-tower.com
+
+-----
+
 ## UI Kits
 
 ### Bootstrap + Material Design
