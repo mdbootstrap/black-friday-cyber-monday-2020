@@ -66,6 +66,38 @@ A list of Black Friday and Cyber Monday promotions and discounts for web develop
 
 🔗 https://www.socialpilot.co/limited-time-deal
 
+### Adobe Creative Cloud
+
+📓 Adobe Creative Cloud provides access to all designer tools for desktop and mobile devices, including Photoshop, Illustrator, InDesign, and Adobe Premiere Pro.
+
+💰 20%
+
+🔗 https://www.socialpilot.co/limited-time-deal
+
+### Jungle Scout
+
+📓 The leading all-in-one platform for selling on Amazon, with the mission of providing data & insights to help entrepreneurs and brands grow their businesses.
+
+💰 Save more than $200
+
+🔗 https://www.junglescout.com/offer/black-friday/
+
+### Fesh
+
+📓 All-encompassing eCommerce platform that will power your online sales and allows you to create a bold, easy-to-use online store without having to write a single line of code.
+
+💰 80%
+
+🔗 https://fesh.store/blackfriday2020.php
+
+### NetHunt
+
+📓 Manage your leads and customers effectively, automate sales and marketing routine, and close more deals this season.
+
+💰 40%
+
+🔗 https://nethunt.com/black-friday-2020
+
 ------
 
 ## Courses, books learning
@@ -78,7 +110,39 @@ A list of Black Friday and Cyber Monday promotions and discounts for web develop
 
 🔗 https://gumroad.com/l/proswift/blackfriday20
 
+### Pluralsight
+
+📓  Online education website that offers a variety of video training courses for software developers, IT administrators, and creative professionals.
+
+💰 40%
+
+🔗 https://www.pluralsight.com/offer/2020/bf-cm-40-off
 
 
+------
 
+## SEO
 
+### SE Ranking
+
+📓 Real-time ranking positions of your website’s keywords across major search engines. Track your rankings on a country / region / city level as frequently as you want.
+
+💰 30%
+
+🔗 https://seranking.com/black-friday.html
+
+### Wincher
+
+📓 Track all your keywords with daily updates, keep an eye on your competitors, generate PDF reports, do keyword research and a lot more.
+
+💰 90%
+
+🔗 https://www.wincher.com/
+
+### seoscout
+
+📓 Optimize your titles for better click through rates and better long tail coverage. Track the impact of every change and get white labelled reports for your clients.
+
+💰 50%
+
+🔗 https://seoscout.com/black-friday
