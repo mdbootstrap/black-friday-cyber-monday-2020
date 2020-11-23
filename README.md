@@ -86,7 +86,7 @@ A list of Black Friday and Cyber Monday promotions and discounts for web develop
 
 📓 All-encompassing eCommerce platform that will power your online sales and allows you to create a bold, easy-to-use online store without having to write a single line of code.
 
-💰 80%
+💰 Up to 80%
 
 🔗 https://fesh.store/blackfriday2020.php
 
@@ -135,7 +135,7 @@ A list of Black Friday and Cyber Monday promotions and discounts for web develop
 
 📓 Track all your keywords with daily updates, keep an eye on your competitors, generate PDF reports, do keyword research and a lot more.
 
-💰 90%
+💰 Up to 90%
 
 🔗 https://www.wincher.com/
 
