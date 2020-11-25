@@ -131,6 +131,16 @@ A list of Black Friday and Cyber Monday promotions and discounts for web develop
 
 🔗 https://www.pluralsight.com/offer/2020/bf-cm-40-off
 
+### Product Design Manual
+
+📓 An on-demand, self-guided video course to help you learn product (UI/UX) design.
+
+💰 50%
+
+🎫 BLACKFRIDAY2020
+
+🔗 https://designerup.co/product-design-ui-ux-manual
+
 
 ------
 
