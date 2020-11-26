@@ -146,6 +146,14 @@ A list of Black Friday and Cyber Monday promotions and discounts for web develop
 
 ## SEO
 
+### Checkbot 
+
+📓 Checkbot for Chrome tests 100s of pages at a time to find critical SEO, speed and security issues before your users do. Test unlimited sites as often as you want including local development sites to keep on top of issues and stop critical problems going live.
+
+💰 60% off first year
+
+🔗 https://www.checkbot.io/
+
 ### SE Ranking
 
 📓 Real-time ranking positions of your website’s keywords across major search engines. Track your rankings on a country / region / city level as frequently as you want.
